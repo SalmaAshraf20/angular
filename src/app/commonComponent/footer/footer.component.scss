@@ -1,0 +1,13 @@
+$footerColor:#1a252f;
+$footertop:#2c3e50;
+
+.bottom-footer{
+    background-color: $footerColor;
+}
+.top-footer{
+    background-color: $footertop;
+}
+.fs-8{
+    font-size: 14px;
+    text-wrap: nowrap;
+}

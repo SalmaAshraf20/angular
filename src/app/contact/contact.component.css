@@ -1,0 +1,12 @@
+h3.title {
+  color: #2c3e50;
+}
+
+.btn-contact {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #1abc9c;
+  --bs-btn-border-color: #1abc9c;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #1abc9c;
+  --bs-btn-hover-border-color: #1abc9c;
+}/*# sourceMappingURL=contact.component.css.map */

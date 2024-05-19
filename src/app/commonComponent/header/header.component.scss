@@ -1,0 +1,11 @@
+$headerColor:#2c3e50;
+$headerActive:#1abc9c;
+
+nav.navbar{
+    background-color: $headerColor !important;
+}
+.spot{
+    background-color: $headerActive;
+    border-radius: 8px;
+    color: #fff;
+}
